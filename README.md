@@ -15,7 +15,7 @@ This is a simple and responsive To-Do List App built using HTML, CSS, and JavaSc
 This project is created as the final assignment for the Web Development course and showcases the use of HTML, CSS, and JavaScript.
 
 ## Live Demo
-[Click here to view the live website](https://github.com/mercymkjy/ToDo-List-App.git)
+[Click here to view the live website](https://mercymkjy.github.io/ToDo-List-App/)
 
 ## How to Use
 1. Type a task in the input box.
@@ -24,7 +24,7 @@ This project is created as the final assignment for the Web Development course a
 4. Click the “Delete” button to remove it.
 
 ## Author
-Mercy
+Mihiret
 
 ## License
 This project is free to use.
