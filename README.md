@@ -9,7 +9,6 @@ This is a simple and responsive To-Do List App built using HTML, CSS, and JavaSc
 - Responsive design for mobile and desktop
 - Dark Mode toggle
 - Smooth animations
-- Sound effect when adding or deleting tasks
 
 ## Project Purpose
 This project is created as the final assignment for the Web Development course and showcases the use of HTML, CSS, and JavaScript.
